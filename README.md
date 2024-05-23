@@ -1,1 +1,1 @@
-Tool I wrote to bulk create sql inserts for a volunteer project I work on. 
+Tool I wrote to bulk create sql inserts for a volunteer project I work on. Takes some user input, then creates a bunch of placeholder rows in the database based on that input. Properly takes error handling to prevent SQL issues. 
